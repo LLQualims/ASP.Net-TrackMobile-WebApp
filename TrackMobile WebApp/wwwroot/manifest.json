@@ -1,0 +1,17 @@
+{
+  "name": "PWA TrackMobile",
+  "short_name": "PWA TM",
+  "description": "Creating PWA in ASP.NET Core.",
+  "icons": [
+    {
+      "src": "/img/IconTM192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/IconTM512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
